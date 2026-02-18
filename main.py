@@ -1,4 +1,6 @@
 # This is a sample Python script.
+import a
+
 import b
 
 
@@ -18,3 +20,4 @@ if __name__ == '__main__':
     b.funcb()
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+a.funca()
